@@ -1,0 +1,10 @@
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\bin\Debug\LabActivity2.exe.config
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\bin\Debug\LabActivity2.exe
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\bin\Debug\LabActivity2.pdb
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.csproj.AssemblyReference.cache
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.Form1.resources
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.Properties.Resources.resources
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.csproj.GenerateResource.cache
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.exe
+C:\Users\COMLAB507\source\repos\LabActivity2\LabActivity2\obj\Debug\LabActivity2.pdb
